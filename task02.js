@@ -1,7 +1,5 @@
 'use strict'
 
-let verifiedNamber = "4";
-
 const isPrime = (verifiedNamber) => {
   if (verifiedNamber <= 1) {
     let mark = false;
